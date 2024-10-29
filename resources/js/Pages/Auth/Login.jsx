@@ -32,8 +32,7 @@ export default function Login({ status, canResetPassword }) {
             )}
 
             <form onSubmit={submit}>
-                <div>
-                    AWAIS SS
+                <div>              
                     <InputLabel htmlFor="email" value="Email" />
 
                     <TextInput
